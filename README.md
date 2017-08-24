@@ -1,0 +1,2 @@
+# wn-blajar
+cari ilmu
